@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* Assignment 9: AJAX Part 2 CSS
+	Written by: Austin Schaefer
+	Frst Revision: 4/10/2014*/
+
+div#state_mod
+{
+	position:relative;
+	left:3px;
+	top:5px;
+	padding:1px;
+}
+
+div#uni_mod
+{
+	position:relative;
+	left:3px;
+	top:5px;
+	padding:1px;
+}
+
+div#college_mod
+{
+	position:relative;
+	left:3px;
+	top:5px;
+	padding:1px;
+}
+
+div#dept_mod
+{
+	position:relative;
+	left:3px;
+	top:5px;
+	padding:1px;
+}

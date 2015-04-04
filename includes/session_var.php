@@ -1,0 +1,5 @@
+<?php
+#Session variables
+$action;
+
+?>
